@@ -10,11 +10,11 @@ This project analyses retail store sales data to understand revenue performance,
 
 **Tools Used**
 
-\- Excel: Data cleaning and preparation
+- Excel: Data cleaning and preparation
 
-\- MySQL: SQL analysis
+- MySQL: SQL analysis
 
-\- Power BI: Dashboard creation and data visualization
+- Power BI: Dashboard creation and data visualization
 
 
 
@@ -66,23 +66,24 @@ https://www.kaggle.com/datasets/hassanjameelahmed/store-sales
 
 
 
+
 **Dashboard Preview**
 
-!\[Retail Store Sales Dashboard](DashboardScreenshot.png)
+![Retail Store Sales Dashboard](DashboardScreenshot.png)
 
 
 
 **Key Insights**
 
-\- Electronics generated £895K revenue and contributed 62.8% of total sales.
+- Electronics generated £895K revenue and contributed 62.8% of total sales.
 
-\- Card payments accounted for 80.2% of all transactions.
+- Card payments accounted for 80.2% of all transactions.
 
-\- Customers aged 50+ generated the highest revenue (£556K).
+- Customers aged 50+ generated the highest revenue (£556K).
 
-\- Home category achieved the highest average rating of 3.82.
+- Home category achieved the highest average rating of 3.82.
 
-\- Spring recorded the highest seasonal revenue of £380K.
+- Spring recorded the highest seasonal revenue of £380K.
 
 
 
